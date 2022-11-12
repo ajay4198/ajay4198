@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajay4198
+- 👋 Hi, I’m @Ajay Singh 
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning /EDA//Machine learning//Mysql//Django framework/  
 
